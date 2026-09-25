@@ -75,4 +75,8 @@ linux-firewalld-administration-lab/
     ├── 07_firewalld_remove_rpcbind_service.png
     ├── 08_ssh_connection_server_to_firewalld.png
     ├── 09_firewalld_add_rich_rule_ssh_drop.png
+<<<<<<< HEAD
     └── 10_ssh_connection_timed_out.png
+=======
+    └── 10_ssh_connection_timed_out.png
+>>>>>>> 4ca30c4e4ef83a2f91ede8bf2fb46471714ae7cc
